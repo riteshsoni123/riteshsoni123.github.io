@@ -1,0 +1,171 @@
+body {
+    background-image: url('dark2.jpg'); height: 5000;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+}
+.s1{
+
+    border: 2px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    
+    width:40%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+
+}
+.s1:hover{
+    background-color: black;
+    font-size: 1.2em;
+}
+.s2{
+    border: 2px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    width:40%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+.s2:hover{
+    background-color: black;
+    font-size: 1.2em;
+}
+.s3{
+    border: 2px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    width:40%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+.s3:hover{
+    background-color: black;
+    font-size: 1.2em;
+}
+.s4{
+    border: 2px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    width:40%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+.s4:hover{
+    background-color: black;
+    font-size: 1.2em;
+}
+.s5{
+    border: 2px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    width:40%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+.s5:hover{
+    background-color: black;
+    font-size: 1.2em;
+}
+.s6{
+    border: 2px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    width:40%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+.s6:hover{
+    background-color: black;
+    font-size: 1.2em;
+}
+.s7{
+    border: 2px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    width:40%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+.s7:hover{
+    background-color: black;
+    font-size: 1.2em;
+}
+.s8{
+    border: 2px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    width:40%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+.s8:hover{
+    background-color: black;
+    font-size: 1.2em;
+}
+.buzz{
+    background-color: rgb(48, 47, 47,0.9);
+    border:2px solid white;
+    border-radius: 110px;
+    margin-left: 2px;
+    padding:5px;
+}
+.myimg{
+    border-radius: 50%;
+}
+.text{
+    color:white; 
+    text-align: center ;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.nav ul{
+    margin: 0px;
+}
+.nav li{
+    display: inline;
+}
+.nav a{
+    display: inline-block;
+    padding:.5em;
+    color: white;
+    text-decoration: none;
+}
+.nav a:hover{
+    background-color: rgba(255,255,255,0.3);
+}
+.main-nav{
+    text-align: centre;
+    font-size:1.1em;
+    font-weight: lighter;
+}
+.con a{
+    display: inline-block;
+    padding:.5em;
+}
+.con li{
+    display: inline-block;
+}
+.con1 a{
+    display: inline-block;
+    padding:.5em;
+}
+.con1 li{
+    display: inline-block;
+    padding-left: 10px;
+}
+.text{
+    text-align: center;
+    padding-left: 100px;
+}
